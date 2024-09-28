@@ -1,4 +1,4 @@
-# 📟 D3scord
+# 🚀 D3scord
 
 D3scord is an innovative decentralized communication platform that leverages blockchain technology to facilitate secure and real-time conversations. Built using modern web technologies, D3scord allows users to connect, share, and communicate without intermediaries.
 

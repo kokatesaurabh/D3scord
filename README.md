@@ -24,8 +24,8 @@ Follow these steps to set up your D3scord development environment:
 
 ## Setting Up
 ### 1. Clone/Download the Repository
-`$ git clone https://github.com/kokatesaurabh/D3scord.git
- $ cd D3scord`
+`$ git clone https://github.com/kokatesaurabh/D3scord.git`
+`$ cd D3scord`
 
 
 ### 2. Install Dependencies:

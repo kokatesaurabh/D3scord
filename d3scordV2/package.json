@@ -1,0 +1,21 @@
+{
+  "name": "d3scord",
+  "version": "1.0.0",
+  "description": "Blockchain-gated Discord-like chat platform",
+  "scripts": {
+    "compile":      "npx hardhat compile",
+    "test":         "npx hardhat test",
+    "chain":        "npx hardhat node",
+    "deploy:local": "npx hardhat run scripts/deploy.js --network localhost",
+    "deploy:sepolia":"npx hardhat run scripts/deploy.js --network sepolia",
+    "server":       "cd server && node index.js",
+    "client":       "cd frontend && npm start",
+    "install:all":  "npm install && cd server && npm install && cd ../frontend && npm install"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "@openzeppelin/contracts":          "^4.8.3",
+    "dotenv":                           "^16.0.3",
+    "hardhat":                          "^2.14.0"
+  }
+}

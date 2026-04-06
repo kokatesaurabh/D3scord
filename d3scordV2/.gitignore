@@ -1,0 +1,8 @@
+node_modules/
+.env
+artifacts/
+cache/
+server/messages.json
+frontend/build/
+coverage/
+typechain-types/
